@@ -1,0 +1,17 @@
+.gitignore
+LICENSE.md
+Makefile
+README.md
+docs/Makefile
+ecad/Makefile
+ecad/gschem/32.000.00.00.01.sch
+ecad/gschem/32.000.00.01.01.sch
+ecad/gschem/32.000.00.01.02.sch
+ecad/gschem/Makefile
+ecad/gschem/attribs
+ecad/gschem/doc
+ecad/gschem/function_blocks/32_Noise_Generator_100.sym
+ecad/gschem/gafrc
+ecad/gschem/gnetlistrc
+ecad/gschem/gschemrc
+ecad/gschem/sym
