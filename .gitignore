@@ -3,8 +3,7 @@
 *.log
 mcad/eyecandy
 mcad/plotfiles
-ecad/gschem/BOM
+ecad/gschem/doc
 ecad/gschem/plotfiles
-ecad/pcb/eyecandy
-ecad/pcb/fab
-ecad/pcb/plotfiles
+ecad/gschem/sym
+
