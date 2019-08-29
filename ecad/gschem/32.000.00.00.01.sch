@@ -12,31 +12,13 @@ page=01
 T 11500 600 5 10 1 1 0 0 1
 pages=01
 T 13900 900 5 10 1 1 0 0 1
-revision=20180304
+revision=20190829
 T 13900 600 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 10000 1400 5 10 1 1 0 0 1
 comment=Front Page
 T 10000 1600 5 10 1 1 0 0 1
 description=Noise Generator
-}
-C 9400 1900 0 0 0 rev_header.sym
-{
-T 9500 2900 15 10 0 0 0 0 1
-symversion=20120310
-}
-C 9400 2300 0 0 0 rev_entry.sym
-{
-T 9500 3300 15 10 0 0 0 0 1
-symversion=20120310
-T 9500 2500 15 10 1 1 0 1 1
-revision=00
-T 10100 2500 15 10 1 1 0 1 1
-date=20180304
-T 11300 2500 15 10 1 1 0 1 1
-author=BTI
-T 12300 2500 15 10 1 1 0 1 1
-description=FIRST ISSUE.
 }
 T 700 11800 9 10 1 0 0 2 37
 This hardware is released under Creative Commons Share-alike 4.0 International
