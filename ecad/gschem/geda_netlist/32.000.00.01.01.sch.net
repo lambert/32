@@ -1,0 +1,73 @@
+START header
+
+gEDA's netlist format
+Created specifically for testing of gnetlist
+
+END header
+
+START components
+
+002 device=unknown
+122 device=BNC
+121 device=unknown
+120 device=unknown
+117 device=unknown
+116 device=unknown
+119 device=unknown
+118 device=unknown
+115 device=unknown
+114 device=unknown
+113 device=unknown
+107 device=unknown
+108b device=RESISTOR
+108a device=CAPACITOR
+110 device=INV
+109 device=unknown
+112 device=unknown
+105 device=unknown
+103 device=unknown
+106 device=unknown
+104 device=unknown
+102 device=unknown
+101 device=unknown
+001b device=unknown
+001a device=unknown
+
+END components
+
+START renamed-nets
+
+
+END renamed-nets
+
+START nets
+
+unnamed_net14 : 122 1, U? ? 
+unnamed_net13 : U? ? 
+unnamed_net12 : U? ? 
+PINK : U? ? 
+unnamed_net11 : U? ? 
+WHITE : U? ? 
+unnamed_net10 : U? ? 
+BUS_4 : U? ? 
+GND : 122 2, 108b 2 
+unnamed_net9 : 107 3, 108b 1, 108a 2 
++12V : U? ?, 108a 1 
+unnamed_net8 : 107 1, U? ? 
+unnamed_net7 : 110 2, U? ? 
+unnamed_net6 : 107 2, U? ? 
+DIGITAL : U? ? 
+unnamed_net5 : 110 1, 107 5, U? ? 
+BUS_12 : U? ? 
+BUS_9 : U? ? 
+unnamed_net4 : U? ? 
+unnamed_net3 : U? ? 
+unnamed_net2 : 107 4, U? ? 
+unnamed_net1 : U? ? 
++15V : U? ? 
+BUS_31 : U? ? 
+-15V : U? ? 
+BUS_29 : U? ? 
+
+END nets
+

@@ -1,0 +1,207 @@
+START header
+
+gEDA's netlist format
+Created specifically for testing of gnetlist
+
+END header
+
+START components
+
+S207 device=SWITCH
+R337 device=RESISTOR
+K201 device=CONNECTOR
+R331 device=VARIABLE_RESISTOR
+R332 device=RESISTOR
+R334 device=RESISTOR
+Q306 device=NPN_TRANSISTOR
+Q307 device=NPN_TRANSISTOR
+Q305 device=PNP_TRANSISTOR
+R333 device=RESISTOR
+S304 device=SPST
+R309 device=RESISTOR
+S305 device=SPST
+R319 device=RESISTOR
+S306 device=SPST
+R328 device=VARIABLE_RESISTOR
+R330 device=RESISTOR
+R329 device=RESISTOR
+U311 device=OPAMP
+R327 device=RESISTOR
+C324 device=CAPACITOR
+R324 device=RESISTOR
+R325 device=RESISTOR
+C323 device=CAPACITOR
+C322 device=CAPACITOR
+R322 device=RESISTOR
+C321 device=CAPACITOR
+R323 device=RESISTOR
+C320 device=CAPACITOR
+C319 device=CAPACITOR
+R321 device=RESISTOR
+R320 device=RESISTOR
+R326 device=VARIABLE_RESISTOR
+C318 device=CAPACITOR
+C317 device=CAPACITOR
+R316 device=RESISTOR
+U310 device=OPAMP
+C316 device=CAPACITOR
+C315 device=CAPACITOR
+R313 device=RESISTOR
+R312 device=RESISTOR
+C314 device=CAPACITOR
+C313 device=CAPACITOR
+U309 device=OPAMP
+R315 device=RESISTOR
+R314 device=RESISTOR
+C312 device=CAPACITOR
+C310 device=CAPACITOR
+C309 device=CAPACITOR
+C311 device=CAPACITOR
+U308 device=OPAMP
+R311 device=RESISTOR
+C308 device=CAPACITOR
+C307 device=CAPACITOR
+R310 device=RESISTOR
+C303 device=POLARIZED_CAPACITOR
+C304 device=CAPACITOR
+U307 device=unknown
+S208 device=SWITCH
+D205 device=LED
+C305 device=CAPACITOR
+R238 device=RESISTOR
+R308 device=RESISTOR
+Q304 device=NPN_TRANSISTOR
+D304 device=DIODE
+D303 device=DIODE
+Q303 device=NPN_TRANSISTOR
+C306 device=CAPACITOR
+R307 device=RESISTOR
+C301 device=CAPACITOR
+R301 device=RESISTOR
+U304 device=4015
+U305 device=4011
+U303 device=4015
+U302 device=4015
+U301 device=4015
+S301 device=SPST
+S302 device=SPST
+D301 device=DIODE
+R302 device=RESISTOR
+Q301 device=NPN_TRANSISTOR
+R303 device=RESISTOR
+D302 device=DIODE
+R304 device=RESISTOR
+Q302 device=NPN_TRANSISTOR
+R305 device=RESISTOR
+C302 device=CAPACITOR
+R306 device=RESISTOR
+U306 device=4093
+
+END components
+
+START renamed-nets
+
+BUS_30 -> GND
+
+END renamed-nets
+
+START nets
+
+unnamed_net81 : R337 2, K201 1 
+unnamed_net80 : S207 4, R331 1 
+unnamed_net79 : R331 3, R332 1 
+unnamed_net78 : Q305 E, R334 1 
+unnamed_net77 : R337 1, R334 2, R334 1 
+unnamed_net76 : Q305 B, R334 2, Q306 E 
+unnamed_net75 : R334 2, Q307 E 
+unnamed_net74 : R332 2, Q306 B, Q305 B 
+unnamed_net73 : Q307 B, Q305 E, R333 1 
+unnamed_net72 : S304 2, R309 2 
+unnamed_net71 : S305 2, R319 2 
+BUS_04 : S304 1, S305 1, S306 1 
+unnamed_net70 : S306 2, R330 2 
+PINK : S207 1, R330 1, R329 2, U311 6 
+unnamed_net69 : R328 1, R329 1, U311 2 
+unnamed_net68 : U311 3, R327 2 
+unnamed_net67 : R324 1, R325 2 
+unnamed_net66 : R325 1, C323 2, C322 2 
+unnamed_net65 : C321 2, R323 1 
+unnamed_net64 : R322 1, C320 2, C319 2 
+unnamed_net63 : R322 2, R321 1 
+unnamed_net62 : R327 1, C324 2, R324 2, R323 2, R321 2, R320 2 
+WHITE : S207 2, R326 2 
+unnamed_net61 : R316 2, R319 1, R320 1, R326 3, R326 1, U310 6, U310 2 
+unnamed_net60 : U310 3, C316 2 
+unnamed_net59 : C316 1, R316 1, C315 2 
+unnamed_net58 : R313 2, R312 1 
+unnamed_net57 : U309 2, C315 1, U309 6, R315 2 
+unnamed_net56 : R315 1, R314 2 
+unnamed_net55 : R312 2, U309 3, C312 2 
+unnamed_net54 : R314 1, C312 1, C311 2 
+unnamed_net53 : C311 1, U308 6, U308 2 
+unnamed_net52 : U308 3, R311 2, C308 2 
+unnamed_net51 : C308 1, C307 2, R310 2 
+-15V : R334 1, Q305 C, U311 4, C317 2, U310 4, C313 2, U309 4, C309 2, U308 4, S208 4 
+BUS_29 : S208 5 
+BUS_31 : S208 2 
+unnamed_net50 : D205 2, R238 1 
++15V : Q307 C, Q306 C, R333 2, U311 7, C318 2, U310 7, C314 2, U309 7, C310 2, U308 7, U307 1, C305 2, S208 1, R238 2 
+DIGITAL : R309 1, S207 3, R310 1, Q304 E, D304 2 
+unnamed_net49 : D304 1, Q304 B, R308 1, D303 1, Q303 C 
+unnamed_net48 : D303 2, Q303 B, C306 2, R307 2 
+unnamed_net47 : U304 2 
+unnamed_net46 : U304 12 
+unnamed_net45 : U304 13 
+unnamed_net44 : U304 15, U304 10 
+unnamed_net43 : U304 3 
+unnamed_net42 : U304 4 
+unnamed_net41 : U304 5 
+unnamed_net40 : U304 11, U305 2, U305 5 
+unnamed_net39 : U305 3, U305 6, U305 12 
+unnamed_net38 : U305 11, U305 9 
+unnamed_net37 : U305 4, U305 8 
+unnamed_net36 : U305 10, U306 5, U306 6 
+unnamed_net35 : U304 7, U303 2 
+unnamed_net34 : U303 11 
+unnamed_net33 : U303 12 
+unnamed_net32 : U303 13 
+unnamed_net31 : U303 15, U303 10 
+unnamed_net30 : U303 3 
+unnamed_net29 : U303 4 
+unnamed_net28 : U303 5 
+unnamed_net27 : U303 7, U302 2 
+unnamed_net26 : U302 11 
+unnamed_net25 : U302 12 
+unnamed_net24 : U305 1, U305 13, U302 13 
+unnamed_net23 : U302 15, U302 10 
+unnamed_net22 : U302 3 
+unnamed_net21 : U302 4 
+unnamed_net20 : U302 5 
+unnamed_net19 : U302 7, U301 2 
+unnamed_net18 : U301 11 
+unnamed_net17 : U301 12 
+unnamed_net16 : U301 13 
+unnamed_net15 : U301 15, U301 10 
+unnamed_net14 : U301 3 
+unnamed_net13 : U301 4 
+unnamed_net12 : U301 5 
+unnamed_net11 : C301 1, R301 2, U304 6, U304 14, U303 6, U303 14, U302 6, U302 14, U301 14, U301 6 
+unnamed_net10 : R307 1, C306 1, U306 4, U301 7 
+unnamed_net9 : U304 9, U304 1, U303 9, U303 1, U302 9, U302 1, U301 1, U301 9, S301 1, S302 1 
+BUS_9 : R302 1 
+unnamed_net8 : S301 2, U306 3 
+unnamed_net7 : D301 1, R302 2, Q301 B 
+unnamed_net6 : U306 2, U306 1, Q301 C, R303 1 
+BUS_12 : R304 1 
+unnamed_net5 : S302 2, U306 11 
+unnamed_net4 : D302 1, R304 2, Q302 B 
+unnamed_net3 : U306 13, U306 12, Q302 C, R305 1 
++12V : C303 1, C304 2, U307 2, R308 2, Q304 C, C301 2, R303 2, R305 2 
+GND : K201 2, R331 2, R328 3, R328 2, C324 1, C323 1, C322 1, C321 1, C320 1, C319 1, C318 1, C317 1, R313 1, C314 1, C313 1, C310 1, C309 1, R311 1, C307 1, C303 2, C304 1, U307 3, D205 1, C305 1, Q303 E, R301 1, U305 7, D301 2, Q301 E, D302 2, Q302 E, C302 1 
+VSS : U304 8, U303 8, U302 8, U301 8, U306 7 
+VDD : U304 16, U305 14, U303 16, U302 16, U301 16, U306 14 
+unnamed_net2 : U306 8, R306 1, C302 2, U306 9 
+unnamed_net1 : S301 2, R306 2, U306 10 
+
+END nets
+

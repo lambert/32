@@ -1,0 +1,39 @@
+Checking non-numbered parts...
+
+Checking duplicated references...
+ERROR: Duplicated reference 121.
+
+Checking nets with only one connection...
+ERROR: Net 'unnamed_net13' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net12' is connected to only one pin: U?:? .
+ERROR: Net 'PINK' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net11' is connected to only one pin: U?:? .
+ERROR: Net 'WHITE' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net10' is connected to only one pin: U?:? .
+ERROR: Net 'BUS_4' is connected to only one pin: U?:? .
+ERROR: Net 'DIGITAL' is connected to only one pin: U?:? .
+ERROR: Net 'BUS_12' is connected to only one pin: U?:? .
+ERROR: Net 'BUS_9' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net4' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net3' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net1' is connected to only one pin: U?:? .
+ERROR: Net '+15V' is connected to only one pin: U?:? .
+ERROR: Net 'BUS_31' is connected to only one pin: U?:? .
+ERROR: Net '-15V' is connected to only one pin: U?:? .
+ERROR: Net 'BUS_29' is connected to only one pin: U?:? .
+
+Checking pins without the 'pintype' attribute...
+NOTE: Found pins without the 'pintype' attribute: U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? 
+Checking type of pins connected to a net...
+
+Checking unconnected pins...
+
+Checking slots...
+
+Checking duplicated slots...
+ERROR: duplicated slot 1 of uref 121
+
+Checking unused slots...
+
+No warnings found. 
+Found 19 errors.

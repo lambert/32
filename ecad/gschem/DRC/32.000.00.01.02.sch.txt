@@ -1,0 +1,45 @@
+Checking non-numbered parts...
+
+Checking duplicated references...
+ERROR: Duplicated reference R334.
+ERROR: Duplicated reference Q305.
+ERROR: Duplicated reference U311.
+ERROR: Duplicated reference U310.
+ERROR: Duplicated reference U309.
+ERROR: Duplicated reference U308.
+ERROR: Duplicated reference S301.
+
+Checking nets with only one connection...
+ERROR: Net 'BUS_29' is connected to only one pin: S208:5 .
+ERROR: Net 'BUS_31' is connected to only one pin: S208:2 .
+ERROR: Net 'BUS_9' is connected to only one pin: R302:1 .
+ERROR: Net 'BUS_12' is connected to only one pin: R304:1 .
+
+Checking pins without the 'pintype' attribute...
+NOTE: Found pins without the 'pintype' attribute: S207:4 S207:1 S207:2 U311:4 U310:4 U309:4 U308:4 S208:4 S208:5 S208:2 U311:7 U310:7 U309:7 U308:7 S208:1 S207:3 U307:2 U307:3 
+Checking type of pins connected to a net...
+
+Checking unconnected pins...
+ERROR: Unconnected pin S208:3
+ERROR: Unconnected pin S208:6
+
+Checking slots...
+ERROR: Multislotted reference U307 has no slot attribute defined.
+
+Checking duplicated slots...
+ERROR: duplicated slot 1 of uref R334
+ERROR: duplicated slot 1 of uref R334
+ERROR: duplicated slot 1 of uref Q305
+ERROR: duplicated slot 1 of uref U311
+ERROR: duplicated slot 1 of uref U310
+ERROR: duplicated slot 1 of uref U309
+ERROR: duplicated slot 1 of uref U308
+ERROR: duplicated slot 1 of uref S301
+
+Checking unused slots...
+WARNING: Unused slot 2 of uref S207
+WARNING: Unused slot 3 of uref S207
+WARNING: Unused slot 4 of uref S207
+
+Found 3 warnings.
+Found 22 errors.

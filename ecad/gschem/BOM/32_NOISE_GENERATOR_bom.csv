@@ -1,0 +1,115 @@
+refdes	footprint	value	mfg	mfg_PN	vendor	vendor_PN	price	documentation	source	comment	
+S207	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R337	unknown	56	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+K201	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R331	unknown	10k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R332	unknown	180	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R334	unknown	2k2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+Q306	unknown	BC107	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+Q307	unknown	BC140	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+Q305	unknown	BC177	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R333	unknown	2k2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+S304	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R309	unknown	1k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+S305	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R319	unknown	1k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+S306	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R328	unknown	5k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R330	unknown	1k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R329	unknown	100k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+U311	unknown	CA3140E	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R327	unknown	10k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C324	CAPA508____.fp	33nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+R324	unknown	150	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R325	unknown	150	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C323	CAPA508____.fp	47nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C322	CAPA508____.fp	47nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+R322	unknown	1k5	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C321	CAPA508____.fp	270nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+R323	unknown	1k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C320	CAPA508____.fp	560nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C319	CAPA508____.fp	470nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+R321	unknown	1k5	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R320	unknown	6k8	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R326	unknown	25k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C318	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C317	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+R316	unknown	82k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+U310	unknown	CA3140E	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C316	unknown	82nF	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C315	unknown	82nF	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R313	unknown	100k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R312	unknown	150k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C314	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C313	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+U309	unknown	CA3140E	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R315	unknown	15k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R314	unknown	15k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C312	unknown	82nF	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C310	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C309	CAPA508____.fp	100nF	Holystone	RDCX104K050DKA	Conrad	531855	0.10	unknown	unknown	50 VDC X7R	
+C311	unknown	82nF	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+U308	unknown	CA3140E	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R311	unknown	1M	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C308	unknown	100nF	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C307	unknown	1nF	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R310	unknown	3k3	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C303	unknown	10uF/25V	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C304	unknown	100nF	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+U307	unknown	LM7812	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+S208	unknown	APEM 5546	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+D205	unknown	GREEN	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C305	unknown	100nF	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R238	unknown	680	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R308	unknown	1k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+Q304	unknown	BC107	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+D304	unknown	1N4148	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+D303	unknown	1N4148	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+Q303	unknown	BC107	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C306	unknown	470pF	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R307	unknown	2k2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C301	unknown	100nF	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R301	unknown	10k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+U304	DIP16	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+U305	DIP14	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+U303	DIP16	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+U302	DIP16	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+U301	DIP16	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+S301	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+S302	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+D301	unknown	1N4148	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R302	unknown	4k7	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+Q301	unknown	BC107	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R303	unknown	1k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+D302	unknown	1N4148	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R304	unknown	4k7	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+Q302	unknown	BC107	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R305	unknown	1k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+C302	unknown	100pF	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+R306	unknown	12k	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+U306	DIP14	unknown	unknown	unknown	unknown	unknown	unknown	http://www.semiconductors.philips.com/acrobat/datasheets/HEF4093B_CNV_3.pdf	unknown	unknown	
+002	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+122	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+121	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+120	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+117	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+116	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+119	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+118	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+115	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+114	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+113	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+107	unknown	31-BIT SHIFT REGISTER	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+108b	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+108a	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+110	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+109	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+112	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+105	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+103	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+106	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+104	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+102	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+101	unknown	500 kHz	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+001b	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
+001a	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	
