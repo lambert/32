@@ -1,4 +1,4 @@
-v 20110115 2
+v 20130925 2
 C 0 200 0 0 0 A1-sheet.sym
 {
 T 26200 300 5 10 1 1 0 0 1
@@ -14,7 +14,7 @@ comment=Noise Generator
 T 26200 1300 5 10 1 1 0 0 1
 description=Octave Filter
 T 30100 600 5 10 1 1 0 0 1
-revision=20180828
+revision=20220606
 T 30100 300 5 10 1 1 0 0 1
 author=Bert Timmerman
 }
@@ -265,14 +265,14 @@ netname=PINK
 C 20000 9300 1 0 0 amp.sym
 {
 T 20200 9100 5 10 1 1 0 0 1
-refdes=121
+refdes=122
 }
 C 22100 9200 1 0 1 BNC-1.sym
 {
 T 21750 9850 5 10 0 0 0 6 1
 device=BNC
 T 22100 10000 5 10 1 1 0 6 1
-refdes=122
+refdes=123
 }
 C 21900 8600 1 0 0 gnd-1.sym
 N 21200 9700 21600 9700 4

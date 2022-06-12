@@ -1,4 +1,4 @@
-v 20110115 2
+v 20130925 2
 C 200 200 0 0 0 A1-sheet.sym
 {
 T 26400 300 5 10 1 1 0 0 1
@@ -1646,7 +1646,7 @@ C 30700 5200 1 90 0 resistor-2.sym
 T 30350 5600 5 10 0 0 90 0 1
 device=RESISTOR
 T 30400 5400 5 10 1 1 90 0 1
-refdes=R334
+refdes=R335
 T 30900 5400 5 10 1 1 90 0 1
 value=18
 }
@@ -1655,7 +1655,7 @@ C 30700 3900 1 90 0 resistor-2.sym
 T 30350 4300 5 10 0 0 90 0 1
 device=RESISTOR
 T 30400 4100 5 10 1 1 90 0 1
-refdes=R334
+refdes=R336
 T 30900 4100 5 10 1 1 90 0 1
 value=18
 }
@@ -1664,9 +1664,9 @@ C 30000 3700 1 180 1 pnp-3.sym
 T 30900 3200 5 10 0 0 180 6 1
 device=PNP_TRANSISTOR
 T 29900 2600 5 10 1 1 0 0 1
-refdes=Q305
+refdes=Q308
 T 29900 2400 5 10 1 1 0 0 1
-value=BC177
+value=BC160
 }
 N 30600 2700 30600 2100 4
 N 30600 6300 30600 6100 4
@@ -1980,3 +1980,19 @@ T 23400 6800 5 10 0 0 90 0 1
 symversion=20180324
 }
 V 24600 5500 50 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 31900 5600 9 10 1 0 0 0 1
+Front Panel
+C 4300 1600 1 0 0 nc-right-1.sym
+{
+T 4400 2100 5 10 0 0 0 0 1
+value=NoConnection
+T 4400 2300 5 10 0 0 0 0 1
+device=DRC_Directive
+}
+C 4300 5200 1 0 0 nc-right-1.sym
+{
+T 4400 5700 5 10 0 0 0 0 1
+value=NoConnection
+T 4400 5900 5 10 0 0 0 0 1
+device=DRC_Directive
+}
